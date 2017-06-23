@@ -24,6 +24,11 @@ a{
 	margin-left: 200px;
 	margin-top: 250px;
 }
+.content{
+	float: right;
+	margin-right: 700px;
+	margin-top: -300px;
+}
 /*
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Patrick Hand SC', cursive;
